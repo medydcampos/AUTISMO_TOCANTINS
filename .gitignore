@@ -1,0 +1,24 @@
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+*.env
+
+# Ambiente Python e caches
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.matplotlib_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Dados brutos/processados (não publicar)
+dados_quant/
+dados_qual/
+
+# Figuras e HTML gerados
+OUTPUT/
+
+# Relatórios e documentos de apoio (Word etc.)
+relatorio_apoio/
