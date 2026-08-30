@@ -280,7 +280,6 @@ Limitações adicionais já registradas no codebook (`metodologia_final.docx`) e
 - Duas passagens de *Otimismo perante à cidadania digital* foram eliminadas do corpus por viés de desejabilidade social e priming. As que restaram exigem elaboração espontânea; mesmo assim, o subdomínio é evidência fraca.
 - *Hiperfoco* / *Tendência de hiperfoco* sofre priming da entrevistadora (o termo entra pela pergunta). Observações com elaboração espontânea foram mantidas.
 - O domínio *Maternidade com criança autista* tem baixa prevalência; foi mantido no corpus porque aparece com alguma densidade em entrevistas específicas, ainda que periférico ao foco principal.
-- Há notas pontuais no codebook para checar se *Morosidade na provisão do serviço* mistura saúde e educação, e se *Qualidade questionável de suporte na rede pública de educação* é de fato só sobre educação.
 
 ---
 
