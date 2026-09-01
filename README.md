@@ -288,7 +288,7 @@ Limitações adicionais já registradas no codebook (`metodologia_final.docx`) e
 Prompt de abertura da sessão de revisão por pares (alocação + fusão). Copiado na íntegra:
 
 ```
-Você pode por favor fazer uma revisão da alocação de categorias para mim? Vá novamente em dataset_processado.xlsx, analise as passagens e como elas estão alocadas e compare com o documento "Metodologia.docx". Me dê um relatório NO CHAT (não crie arquivos novos) com o seguinte formato:
+Você é meu assistente de pesquisa qualitativa. Faça uma revisão da alocação de categorias para mim. Vá novamente em dataset_processado.xlsx, analise as passagens e como elas estão alocadas e compare com o documento "Metodologia.docx". Me dê um relatório NO CHAT (não crie arquivos novos) com o seguinte formato:
 • Id da passagem:
 • Passagem escrita
 • Caminho atual (domínio > subdomínio > subdomínio detalhado)
