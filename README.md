@@ -275,6 +275,8 @@ Texto alinhado à seção **Limitações** de `Metodologia/resultados.docx`, com
 
 **Evidência insuficiente sobre cidadania digital.** Não há evidências suficientes para concluir algo substancial sobre a opinião dos pais a respeito da cidadania digital infantil. Algumas perguntas feitas aos entrevistados foram alvo de priming e viés de desejabilidade social, impedindo elaboração espontânea de opiniões. Isso afetou, principalmente, a pergunta sobre cidadania digital infantil.
 
+**O design de hierarquias granulou ainda mais uma amostra já relativamente pequena.** As prevalências são muitas vezes calculadas em cima de amostras muito pequenas. Isso torna as métricas extremamente sensíveis a qualquer reorganização das alocações. Uma extensão interessante deste projeto pode ser testar diferentes métodos de mensuração e criação de métricas para as alocações, de forma que tais métricas reflitam com mais acurácia e fidelidade o conjunto de dados coletados.
+
 Limitações adicionais já registradas no codebook (`metodologia_final.docx`) e que devem ser lidas junto com as tabelas da seção 3:
 
 - Duas passagens de *Otimismo perante à cidadania digital* foram eliminadas do corpus por viés de desejabilidade social e priming. As que restaram exigem elaboração espontânea; mesmo assim, o subdomínio é evidência fraca.
